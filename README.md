@@ -1,1 +1,1 @@
-A simple-resume. I'll add stuff later.
+A simple-resume. I'll add other stuff later.
